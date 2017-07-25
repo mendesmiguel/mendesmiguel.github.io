@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Miguel Mendes&#39; NLP</title>
+    <link>https://mendesmiguel.github.io/posts/</link>
+    <description>Recent content in Posts on Miguel Mendes&#39; NLP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 25 Jul 2017 10:48:50 -0300</lastBuildDate>
+    
+	<atom:link href="https://mendesmiguel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://mendesmiguel.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jul 2017 10:48:50 -0300</pubDate>
+      
+      <guid>https://mendesmiguel.github.io/posts/my-first-post/</guid>
+      <description>Hello from Miguel! This is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
